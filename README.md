@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gomezzzer, you can call me Jorge.
 - 👀 I’m interested in all things Web Development.
-- 🌱 I’m currently learning FrontEnd Web Development @ Treehouse coding. 
+- 🌱 FrontEnd Web Development Techdegree from Treehouse coding. 
 
 
 <!---
