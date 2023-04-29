@@ -14,6 +14,10 @@
     <img src="https://skillicons.dev/icons?i=ruby,rails,github&perline=3" />
   </a>
  </p>
+ 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gomezzzer&count_private=true&theme=tokyonight&showicons=true)]() 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezzzer&langs_count=5&theme=tokyonight)]()
 
 <!---
 Gomezzzer/Gomezzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
