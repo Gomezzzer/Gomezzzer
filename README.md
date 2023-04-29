@@ -8,7 +8,10 @@
  <h2>Languages</h2>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ruby)](https://skillicons.dev" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,react&theme=light" />
   </a>
  </p>
 
