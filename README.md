@@ -11,10 +11,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails&perline=3" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,github&perline=3" />
   </a>
  </p>
 
