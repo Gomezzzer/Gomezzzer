@@ -8,13 +8,13 @@
  <h2>Languages & Tools</h2>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ruby)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails&perline=3" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
  </p>
 
