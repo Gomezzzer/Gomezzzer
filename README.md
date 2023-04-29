@@ -5,13 +5,16 @@
    <li>💎 Full Stack Apprentice studying Ruby on Rails</li>
   </ul>
   
- <h2>Languages</h2>
+ <h2>Languages & Tools</h2>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ruby)](https://skillicons.dev" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,react&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode&theme=light" />
   </a>
  </p>
 
