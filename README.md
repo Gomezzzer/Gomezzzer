@@ -8,10 +8,7 @@
  <h2>Languages & Tools</h2>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,github&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,github,)](https://skillicons.dev" />
   </a>
  </p>
  
