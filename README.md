@@ -6,7 +6,7 @@
   </ul>
   
  <h2>Languages & Tools</h2>
- <p align="center">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,github,)](https://skillicons.dev" />
   </a>
