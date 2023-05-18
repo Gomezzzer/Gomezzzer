@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,github,vscode,)](https://skillicons.dev" />
   </a>
  </p>
- 
+ <!--
  <h2>Stats</h2>
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gomezzzer&count_private=true&theme=tokyonight&showicons=true)]()
