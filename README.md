@@ -2,7 +2,7 @@
   <ul>
    <li>👀 I’m interested in all things Web Development</li>
    <li> 🌱 Frontend Web Development Techdegree from Treehouse coding</li> 
-   <li>💎 Full Stack Apprentice studying Ruby on Rails</li>
+   <li>💎 Full Stack apprentice studying Ruby on Rails</li>
   </ul>
   
  <h2>Languages & Tools</h2>
