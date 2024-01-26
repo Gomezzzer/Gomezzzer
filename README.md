@@ -20,7 +20,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gomezzzer&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezzzer&langs_count=5&theme=tokyonight)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gomezzzer)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gomezzzer&theme=rose-pine)](https://git.io/streak-stats)
 <!---
 
 Gomezzzer/Gomezzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
