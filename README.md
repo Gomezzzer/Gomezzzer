@@ -11,7 +11,8 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,ruby,rails,github,git,nextjs,aws,bootstrap,vscode" />
   </a>
  </p>
- 
+
+ <h2>Visitor Count</h2>
  
 ![Visitor Count](https://profile-counter.glitch.me/{gomezzzer-rq}/count.svg)
 
@@ -23,6 +24,3 @@
 
 
 
-Gomezzzer/Gomezzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
