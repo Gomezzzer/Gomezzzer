@@ -14,7 +14,7 @@
  
  
 ![Visitor Count](https://profile-counter.glitch.me/{gomezzzer-rq}/count.svg)
-<!--- 
+
  <h2>Stats</h2>
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gomezzzer&count_private=true&theme=default&showicons=true)]()
