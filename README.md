@@ -2,13 +2,13 @@
   <ul>
    <li>👀 I’m interested in all things Web Development</li>
    <li> 🌱 Frontend Web Development Techdegree from Treehouse coding</li> 
-   <li>💎 Full Stack apprentice studying Ruby on Rails</li>
+   <li>💎 Full Stack Web Developer</li>
   </ul>
   
  <h2>Languages & Tools</h2>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,ruby,rails,github,git,vscode)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,ruby,rails,github,git)](https://skillicons.dev" />
   </a>
  </p>
  
