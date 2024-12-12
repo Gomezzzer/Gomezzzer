@@ -1,9 +1,18 @@
-<h1>👋 Hi, I’m Gomezzzer</h1>
-  <ul>
-   <li>👀 I’m interested in all things Web Development</li>
-   <li> 🌱 Frontend Web Development Techdegree from Treehouse coding</li> 
-   <li>💎 Full Stack Web Developer</li>
-  </ul>
+# 👋 Hi there! I'm a Full Stack Web Developer
+
+I'm a passionate technologist with a comprehensive skill set spanning multiple programming languages and web technologies. My journey in web development is driven by a constant curiosity and commitment to learning cutting-edge technologies.
+
+## 🚀 Tech Stack
+- **Languages:** Ruby, JavaScript, Python, TypeScript
+- **Frameworks:** Ruby on Rails, React
+- **Currently Expanding:** TypeScript Expertise
+
+## 🌟 Highlights
+- Completed Frontend Web Development Techdegree from Treehouse
+- Versatile full stack developer with a keen eye for creating robust, efficient web applications
+- Continuously exploring new technologies and refining my craft
+
+**Let's build something amazing together!** 💻✨
   
  <h2>Languages & Tools</h2>
  <p align="left">
