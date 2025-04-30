@@ -27,8 +27,8 @@ I'm a passionate technologist with a comprehensive skill set spanning multiple p
 
  <h2>Stats</h2>
  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gomezzzer&count_private=true&theme=dracula&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezzzer&langs_count=5&theme=dracula)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gomezzzer&count_private=true&theme=transparent&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gomezzzer&langs_count=5&theme=transparent)]()
 
 
 
