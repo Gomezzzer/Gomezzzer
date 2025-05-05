@@ -18,7 +18,7 @@ I'm a passionate technologist with a comprehensive skill set spanning multiple p
  <h2>Languages & Tools</h2>
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,ruby,rails,github,git,nextjs,aws,bootstrap,vscode,mongodb,postgres,sass,python&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,ruby,rails,github,git,nextjs,aws,bootstrap,vscode,mongodb,postgres,sass,python,vite,firebase&perline=8" />
   </a>
  </p>
 
