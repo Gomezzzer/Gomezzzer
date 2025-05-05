@@ -9,7 +9,8 @@ I'm a passionate technologist with a comprehensive skill set spanning multiple p
 
 ## 🌟 Highlights
 - Completed Frontend Web Development Techdegree from Treehouse
-- Versatile full stack developer with a keen eye for creating robust, efficient web applications
+- Obtained Full-Stack Web Development Degree from Discovery Partners Institute
+- Versatile full-stack developer with a keen eye for creating robust, efficient web applications
 - Continuously exploring new technologies and refining my craft
 
 **Let's build something amazing together!** 💻✨
